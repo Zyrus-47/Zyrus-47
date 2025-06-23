@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Harsh Raj<br>Full-Stack Developer | Tech Enthusiast | Building innovative apps with React, AI, and Computer Vision. Passionate about solving real-world problems and open-source.<br>Always learning and creating.</h2>
+<h2 align="left">Hi, I'm Harsh Raj<br>Full-Stack Developer | Tech Enthusiast | Building innovative apps with React, AI, and Computer Vision. Passionate about solving real-world problems and open-source. Always learning and creating.</h2>
 
 ###
 
