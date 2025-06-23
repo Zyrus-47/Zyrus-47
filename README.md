@@ -1,14 +1,12 @@
-<h2 align="left">Hi, I'm Harsh Raj<br>Full-Stack Developer | Tech Enthusiast<br>Building innovative apps with React, AI, and Computer Vision.<br>Passionate about solving real-world problems and open-source.<br>Always learning and creating.</h2>
+<h2 align="left">Hi, I'm Harsh Raj<br>Full-Stack Developer | Tech Enthusiast | Building innovative apps with React, AI, and Computer Vision. Passionate about solving real-world problems and open-source.<br>Always learning and creating.</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zyrus-47&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zyrus-47&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJvaHhxb2RoOGE2ZnR0dzgwdzc1NGZsdmkwNWpzdjF0YzZuMXMxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="150" alt="coding gif" />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJvaHhxb2RoOGE2ZnR0dzgwdzc1NGZsdmkwNWpzdjF0YzZuMXMxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
 
