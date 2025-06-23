@@ -9,3 +9,7 @@
   
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGkya3R5a3p0d204ZGJ1OWVwbTZnbnR4dzRwaHRyN3prcmN5aDN6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.gif" height="150" alt="coding gif 2" />
 </div>
+
+### 📫 Contact Me
+
+- 📧 Email: [harshraj47.tech@gmail.com](mailto:harshraj47.tech@gmail.com)
