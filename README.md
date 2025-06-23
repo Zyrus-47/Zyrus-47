@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Harsh Raj<br>Full-Stack Developer | Tech Enthusiast | Open-Source Contributor<br>Crafting impactful digital experiences with React, AI, and Computer Vision.<br>Passionate about building innovative apps, solving real-world problems, and contributing to open source.<br>Always learning. Always building.</h2>
+<h2 align="left">Hi, I'm Harsh Raj<br>Full-Stack Developer | Tech Enthusiast<br>Building innovative apps with React, AI, and Computer Vision.<br>Passionate about solving real-world problems and open-source.<br>Always learning and creating.</h2>
 
 ###
 
@@ -39,15 +39,16 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/harsh-raj-9b4443182/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://x.com/Zyrus_47" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+  </a>
 </div>
 
 ###
 
-<br clear="both">
+### 📫 Contact Me
 
-<img src="https://raw.githubusercontent.com/Zyrus-47/Zyrus-47/output/snake.svg" alt="Snake animation" />
-
-###
+- 📧 Email: [harshraj47.tech@gmail.com](mailto:harshraj47.tech@gmail.com)
